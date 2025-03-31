@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 
 // Port to start the web server on
-const port = 3007;
+const port = 3005;
 
 // Create a web server 
 const app = express();
